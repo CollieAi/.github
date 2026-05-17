@@ -1,0 +1,36 @@
+<a href="https://collieai.io">
+  <img src="https://github.com/user-attachments/assets/7678428b-4ddc-4c2b-b5b8-70151d003f44" alt="CollieAi — AI Firewall & Guardrails for LLM and AI Apps. Control what your AI can say, do, and discuss." width="100%" />
+</a>
+
+
+<p align="center">
+  <a href="https://collieai.io"><img src="https://img.shields.io/badge/Website-collieai.io-blue?style=flat-square" alt="Website" /></a>
+  <a href="https://docs.collieai.io"><img src="https://img.shields.io/badge/Docs-docs.collieai.io-green?style=flat-square" alt="Docs" /></a>
+  <a href="https://app.collieai.com"><img src="https://img.shields.io/badge/Try_Free-app.collieai.com-purple?style=flat-square" alt="Try Free" /></a>
+</p>
+
+---
+
+**One line change. Every LLM call protected.**
+
+CollieAi is an AI firewall that sits between your app and any LLM provider. Swap the base URL - every request and response is inspected, filtered, and logged by the content policies you define. No SDK, no library, no code changes.
+
+```python
+client = openai.OpenAI(
+    base_url="https://api.collieai.com/v1",  # ← that's it
+    api_key="your-openai-key"
+)
+```
+
+:shield: Prompt injection detection · :lock: PII & financial data masking · :no_entry: Jailbreak prevention · :speech_balloon: Topic restriction policies · :mag: Custom word filtering · :link: URL & link filtering · :key: Secret & API key detection · :brain: Hallucination & quality checks · :bar_chart: Full request/response logging
+
+Unlike SDK-based guardrails, CollieAi works at the network level c any language, any framework, any LLM provider. ~12ms added latency per rule.
+
+**→ [Get started free](https://app.collieai.com)** · [Documentation](https://docs.collieai.io) · [Quick Start](https://docs.collieai.io/getting-started/quick-start) · [llm-firewall repo](https://github.com/CollieAI/llm-firewall)
+
+<sub>
+AI firewall · LLM security · content guardrails · prompt injection protection · AI gateway ·
+PII detection · content moderation · jailbreak detection · content filtering ·
+LLM observability · AI safety · responsible AI · machine learning security ·
+hallucination detection · word filtering · topic restriction · LLM proxy
+</sub>
