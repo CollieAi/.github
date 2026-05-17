@@ -1,5 +1,5 @@
 <a href="https://collieai.io">
-  <img src="https://github.com/user-attachments/assets/7678428b-4ddc-4c2b-b5b8-70151d003f44" alt="CollieAi — AI Firewall & Guardrails for LLM and AI Apps. Control what your AI can say, do, and discuss." width="100%" />
+  <img src="https://github.com/user-attachments/assets/bdad882d-6be4-430c-9826-0b2929a358e2" alt="CollieAi — AI Firewall & Guardrails for LLM and AI Apps. Control what your AI can say, do, and discuss." width="100%" />
 </a>
 
 
